@@ -10,3 +10,7 @@
 ## Como Jogar:
   - Abra o jogo clicando [aqui](https://nataliabrunelli.github.io/jogo-da-memoria/);
   - Ache os pares de cartas.
+
+
+---
+![Jogo](./img/print.png)
