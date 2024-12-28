@@ -9,7 +9,8 @@
 
 ## Como Jogar:
   - Abra o jogo clicando [aqui](https://nataliabrunelli.github.io/jogo-da-memoria/);
-  - Ache os pares de cartas.
+  - Ache os pares de cartas;
+  - Reinicie o jogo clicando no botão "RESET GAME".
 
 
 ---
